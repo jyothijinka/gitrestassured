@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.647 s <<< FAILURE! - in TestSuite
+TestRunner.JiraTest.postJiraTest  Time elapsed: 2.063 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+	at TestRunner.JiraTest.postJiraTest(JiraTest.java:26)
+

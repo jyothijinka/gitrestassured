@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T23:25:41 IST" name="Default suite" finished-at="2023-01-05T23:25:44 IST" duration-ms="2996">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T23:25:41 IST" name="Default test" finished-at="2023-01-05T23:25:44 IST" duration-ms="2996">
+      <class name="TestRunner.AddBook">
+        <test-method signature="getExcelData()[pri:0, instance:TestRunner.AddBook@4efbca5a]" started-at="2023-01-05T23:25:41 IST" name="getExcelData" finished-at="2023-01-05T23:25:44 IST" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExcelData -->
+      </class> <!-- TestRunner.AddBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
